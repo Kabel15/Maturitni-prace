@@ -1,0 +1,21 @@
+párování mionů  - dosadit
+                - napsat jak se to dělá (+ hledat/vytvářet obrázky, teorie)
+Hlavní dokument - zatím to co potřebuji - kód
+                - dodělat teoretickou část, vysvětlit principy, přidat obrázky
+-začít přidávat zbytek ideálně text ke všemu, udělat z toho finálnější produkt
+
+
+-crystalball - pochopit jak funguje
+
+
+možné datasety na analýzu + párování mionů
+
+možnost 1 - nejvíc zpracovaný (49.7 GiB), asi nejlepší na párování mionů
+https://opendata.cern.ch/record/31111
+
+možnost 2 - něco mezi nejsou ještě řazeny dle kritérií (327.5 GiB), zkoušet jak kritéria ovlivní výsledek
+https://opendata.cern.ch/record/cms-230
+
+možnost 3 - největší (4.8 TiB), nejvíc RAW data(zároveň tam jsou elektrony)
+https://opendata.cern.ch/record/17
+

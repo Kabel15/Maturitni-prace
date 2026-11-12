@@ -1,0 +1,4 @@
+ROOT==0.1a12
+ipykernel
+jupyter
+pandas
