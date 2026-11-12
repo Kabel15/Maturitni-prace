@@ -1,5 +1,7 @@
 # Maturitni-prace
 
+Prvni verze.
+
 ## Python environment
 
 The notebooks use CERN ROOT's Python bindings, pandas, and a Jupyter kernel. Create the project environment and install its dependencies with:
